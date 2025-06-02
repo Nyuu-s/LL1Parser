@@ -1,0 +1,62 @@
+{
+  "E": [
+    [
+      1,
+      "T"
+    ]
+  ],
+  "Edash_optional_1": [
+    [
+      0,
+      "+"
+    ],
+    [
+      8,
+      null
+    ]
+  ],
+  "Edash": [
+    [
+      1,
+      "Edash_optional_1"
+    ]
+  ],
+  "T": [
+    [
+      1,
+      "F"
+    ]
+  ],
+  "Tdash_optional_1": [
+    [
+      0,
+      "*"
+    ],
+    [
+      8,
+      null
+    ]
+  ],
+  "Tdash": [
+    [
+      1,
+      "Tdash_optional_1"
+    ]
+  ],
+  "F_choice_1": [
+    [
+      0,
+      "id"
+    ],
+    [
+      0,
+      "("
+    ]
+  ],
+  "F": [
+    [
+      1,
+      "F_choice_1"
+    ]
+  ]
+}

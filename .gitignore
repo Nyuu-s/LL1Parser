@@ -1,0 +1,6 @@
+*.csv
+parsing/*.cbl
+*.json
+*.py[cod]
+__pycache__/
+tests/reports/
